@@ -20,9 +20,10 @@ Built AI-powered projects using Python, FastAPI, PyTorch, and LLMs, including RA
 - PyTorch
 - Pandas & NumPy
 
-🚀 Currently working:
+🚀 Currently improving:
 - RAG (Retrieval-Augmented Generation) applications
 - ML-powered backend APIs
+- Database Integration
 
 🤝 Open to:
 - Collaborating on AI/ML projects
