@@ -2,6 +2,8 @@
 
 🎓 B.Tech student in Artificial Intelligence & Machine Learning at Guru Tegh Bahadur Institute of Technology.
 
+Built AI-powered projects using Python, FastAPI, PyTorch, and LLMs, including RAG systems, semantic search solutions, and machine learning APIs. Continuously enhancing projects by applying new techniques and improving system design.
+
 💡 Interested in:
 - Machine Learning
 - Deep Learning
@@ -18,7 +20,7 @@
 - PyTorch
 - Pandas & NumPy
 
-🚀 Currently building:
+🚀 Currently working:
 - RAG (Retrieval-Augmented Generation) applications
 - ML-powered backend APIs
 
